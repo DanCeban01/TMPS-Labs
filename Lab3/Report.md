@@ -142,7 +142,7 @@ The **Adapter** implements the concept of our serial where 2 drug-cooking crews 
 
 The **Composite** creates the messaging between the two gangs. `Word`,`Sentence` and `Letter` define how the message looks like. `GusMessage` is the text that Gus gang gives to Cartel in order to be heard and protected, but `CartelMessage` is the text they back. 
 
-The **Proxy** define the number of troopes each group havein the `Troop.java`. `Van` is the definition of the car gangs use, `VanProxy` uses the same defintions as `Van` but with more details about how many are into the transport.
+The **Proxy** define the number of troopes each group havein the `Troop`. `Van` is the definition of the car gangs use, `VanProxy` uses the same defintions as `Van` but with more details about how many are into the transport.
 ----
 
 ## Conclusion
